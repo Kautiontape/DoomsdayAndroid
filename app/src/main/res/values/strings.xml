@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Doomsday</string>
+
+    <string name="sun">Sunday</string>
+    <string name="mon">Monday</string>
+    <string name="tue">Tuesday</string>
+    <string name="wed">Wednesday</string>
+    <string name="thu">Thursday</string>
+    <string name="fri">Friday</string>
+    <string name="sat">Saturday</string>
+    <string name="skip">Skip</string>
+
+    <string name="date_format">MM/dd/yyyy</string>
+    <string name="win_spree">Win Spree: </string>
+    <string name="time">Time:</string>
+    <string name="wrong_guesses">Wrong Guesses:</string>
+    <string name="score">Score:</string>
+
+    <string name="win_color">#009900</string>
+    <string name="wrong_color">#f07575</string>
+    <string name="skip_color">#999999</string>
+
+    <string name="win_prompt">Correct!</string>
+    <string name="wrong_prompt">Nope!</string>
+    <string name="skip_prompt">Skipped!</string>
+</resources>
